@@ -1,4 +1,5 @@
-[{"rental_id" : 50,
+[{
+		"rental_id" : 50,
 		"film_id" : 432,
 		"title" : "HOPE TOOTSIE",
 		"rating" : "NC-17",
